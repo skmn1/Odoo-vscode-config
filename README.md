@@ -19,3 +19,6 @@ In this project, we will help you not only to start, restart, and close the odoo
 
 1. In order to debug your application, create a breakpoint and then rerun the service (see the screenshot below)
 ![debug](https://github.com/skmn1/Odoo-vscod-config/blob/main/debug.PNG)
+
+Enjoy this facility. See you in another tricks. Ciao !
+**Soulimane KAMNI**
