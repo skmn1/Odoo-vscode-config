@@ -1,7 +1,9 @@
-# Configure and run Odoo inside the VS Code editor
-Run odoo service directly from the vs code editor
+Odoo developers sturuggle a lot, since testing every change after modifiying the python part of the project requires a restart of the odoo service from the task manager and then an upgrade of the application from the app page.
+In this projet, we will help you not only start, restart, and close the odoo service from the visual studio code editor, but also debug the python part.
 
-From the top menu, select run -> add configuration file
+
+
+After opening VSCode, from the top menu, select run -> add configuration
 
 That will generate the launch.json file with its default content
 
