@@ -3,7 +3,7 @@ In this project, we will help you not only to start, restart, and close the odoo
 
 
 
-1.  After opening **VSCode**, from the top menu, select run -> add configuration, then chose **python file**. That will generate the launch.json file with a default content
+1.  After opening **VSCode**, from the top menu, select run -> **add configuration**, then chose **python file**. That will generate the launch.json file with a default content
 ![config](https://github.com/skmn1/Odoo-vscod-config/blob/main/addconfig.PNG)
 1.  Copy/paste the content of the launch.json file given in the code section of this project (change the paths of the required files if necessary)
 
