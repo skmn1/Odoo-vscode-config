@@ -19,7 +19,8 @@ In this project, we will help you not only to start, restart, and close the odoo
 
 1. Refresh your odoo tab in your browser and check if everything works fine
 
-1. In order to debug your application, create a breakpoint and then rerun the service (see the screenshot below)
+# Debug python for Odoo inside VS Code
+In order to debug your application, create a breakpoint and then rerun the service (see the screenshot below)
 ![debug](https://github.com/skmn1/Odoo-vscod-config/blob/main/debug.PNG)
 
 Ciao !
