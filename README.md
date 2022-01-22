@@ -1,3 +1,5 @@
+Start odoo service inside VS Code
+
 Odoo developers struggle a lot, since testing every change after modifying the python part of the project requires a restart of the odoo service from the task manager and then, an upgrade of the application from the app page.
 In this project, we will help you not only to start, restart, and close the odoo service from the Visual Studio Code editor, but also debug the python part.
 
